@@ -117,7 +117,7 @@ The following features are planned for future implementation:
 
 ## Project Images
 
-Screenshots and hardware setup images are available in the **Output Images** folder.
+Screenshots and hardware setup images are available in this repository.
 
 ---
 
